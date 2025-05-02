@@ -2,7 +2,7 @@ import * as THREE from "three";
 import { useGLTF } from "@react-three/drei";
 
 export function Nissan(props) {
-  const { nodes, materials } = useGLTF("/models/nissan.glb");
+  const { nodes, materials } = useGLTF("models/nissan.glb");
   const headLightMaterial = new THREE.MeshStandardMaterial({
     color: "#00000",
     emissive: "#cdd6db",
