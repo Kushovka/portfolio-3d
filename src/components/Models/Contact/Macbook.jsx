@@ -1,7 +1,7 @@
 import { useGLTF } from "@react-three/drei";
 
 export function MacBook(props) {
-  const { nodes, materials } = useGLTF("/models/macbook.glb");
+  const { nodes, materials } = useGLTF("models/macbook.glb");
   return (
     <group {...props} dispose={null}>
       <group rotation={[Math.PI / 2, 0, 0]}>
@@ -254,4 +254,4 @@ export function MacBook(props) {
   );
 }
 
-useGLTF.preload("/macbook.glb");
+useGLTF.preload("macbook.glb");

@@ -940,4 +940,4 @@ export function Nissan(props) {
   );
 }
 
-useGLTF.preload("/nissan.glb");
+useGLTF.preload("nissan.glb");
