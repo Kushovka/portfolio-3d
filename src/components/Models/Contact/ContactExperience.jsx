@@ -4,7 +4,7 @@ import { MacBook } from "./Macbook";
 
 const ContactExperience = () => {
   return (
-    <Canvas shadows camera={{ position: [0, 3, 7], fov: 45 }}>
+    <Canvas shadows camera={{ position: [3, 3, 7], fov: 45 }}>
       <ambientLight intensity={0.5} color="#ffffff" />
 
       <directionalLight position={[5, 5, 3]} intensity={2.5} color="#ffffff" />
