@@ -1,12 +1,19 @@
-# React + Vite
+# 👉 **[3D Portfolio](https://kushovka.github.io/portfolio-3d/)** Website !!!
+![изображение_2025-05-03_105800693](https://github.com/user-attachments/assets/1228b478-4594-4fb2-b269-c5b9c2923e7e)
+<br><br>
+# ⚙️ Tech Stack
+<br><br>
+<div align="center">
+  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+</div>
+<br><br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🚨 Disclaimer
+<br><br>
+<div align="center">
+  <p>This project is created for educational purposes only. All information, visual materials, and interactive elements are used to demonstrate development and 3D visualization skills. This project is not a commercial product. Any resemblance to real companies, brands, or characters is purely coincidental.</p>
+</div>
