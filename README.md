@@ -18,7 +18,7 @@
   <p>This project is created for educational purposes only. All information, visual materials, and interactive elements are used to demonstrate development and 3D visualization skills. This project is not a commercial product. Any resemblance to real companies, brands, or characters is purely coincidental.</p>
 </div>
 <br><br>
-# ☎️ Connect with me
+<h1>☎️ Connect with me: </h1>
  <br><br>
     <div align="center">
         <a href="https://t.me/kushovka">
