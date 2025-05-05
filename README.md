@@ -1,4 +1,4 @@
-# 👉 **[3D Portfolio](https://kushovka.github.io/portfolio-3d/)** Website !!!
+# 👉 **[3D Developer Portfolio](https://kushovka.github.io/portfolio-3d/)**
 ![изображение_2025-05-03_105800693](https://github.com/user-attachments/assets/1228b478-4594-4fb2-b269-c5b9c2923e7e)
 <br><br>
 # ⚙️ Tech Stack
