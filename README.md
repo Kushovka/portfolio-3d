@@ -6,7 +6,7 @@
   This project is a 3D portfolio built with React, Three.js, and Tailwind CSS. It showcases interactive 3D graphics and animations, providing a unique way to present web development and design projects. The portfolio features smooth transitions and visually engaging elements, designed to highlight development skills and creativity in 3D visualization.
   </p>
 </div>
-# ⚙️ Tech Stack
+<h1>⚙️ Tech Stack</h1>
 <br><br>
 <div align="center">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
