@@ -18,7 +18,7 @@
   <p>This project is created for educational purposes only. All information, visual materials, and interactive elements are used to demonstrate development and 3D visualization skills. This project is not a commercial product. Any resemblance to real companies, brands, or characters is purely coincidental.</p>
 </div>
 <br><br>
-# 🚨 Connect with me:
+# ☎️ Connect with me
     <div align="center">
         <a href="https://t.me/kushovka">
 <img src="https://img.shields.io/badge/Telegram-%2304A1F7.svg?style=for-the-badge&logo=telegram&logoColor=white"/>
