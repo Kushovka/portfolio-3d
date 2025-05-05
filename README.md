@@ -1,6 +1,11 @@
 # 👉 **[3D Developer Portfolio](https://kushovka.github.io/portfolio-3d/)**
 ![изображение_2025-05-03_105800693](https://github.com/user-attachments/assets/1228b478-4594-4fb2-b269-c5b9c2923e7e)
 <br><br>
+<div align="center">
+<p>
+  This project is a 3D portfolio built with React, Three.js, and Tailwind CSS. It showcases interactive 3D graphics and animations, providing a unique way to present web development and design projects. The portfolio features smooth transitions and visually engaging elements, designed to highlight development skills and creativity in 3D visualization.
+  </p>
+</div>
 # ⚙️ Tech Stack
 <br><br>
 <div align="center">
