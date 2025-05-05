@@ -27,7 +27,7 @@
         <a href="https://www.instagram.com/kushovka">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
         </a>
-        <a href="https://t.me/kushovka">
-<img src="https://img.shields.io/badge/Telegram-%2304A1F7.svg?style=for-the-badge&logo=telegram&logoColor=white"/>
+        <a href="mailto:kushovk2003@mail.ru">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
         </a>
 </div>
