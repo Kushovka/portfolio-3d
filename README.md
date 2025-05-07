@@ -35,5 +35,9 @@
         <a href="mailto:kushovk2003@mail.ru">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
         </a>
+           </a>
+        <a href="https://www.linkedin.com/in/kirill-kushov">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
 </div>
  <br><br>
