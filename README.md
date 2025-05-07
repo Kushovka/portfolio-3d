@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
         </a>
            </a>
-        <a href="https://www.linkedin.com/in/kirill-kushov">
+        <a href="https://www.linkedin.com/in/kirill-kushov-9714b9364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
 </div>
