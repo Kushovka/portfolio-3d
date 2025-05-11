@@ -1,11 +1,21 @@
 # 👉 **[3D Developer Portfolio](https://kushovka.github.io/portfolio-3d/)**
+<br><br>
 ![изображение_2025-05-03_105800693](https://github.com/user-attachments/assets/1228b478-4594-4fb2-b269-c5b9c2923e7e)
 <br><br>
 <div align="center">
+  <b>EN:</b><br />
 <p>
   This project is a 3D portfolio built with React, Three.js, and Tailwind CSS. It showcases interactive 3D graphics and animations, providing a unique way to present web development and design projects. The portfolio features smooth transitions and visually engaging elements, designed to highlight development skills and creativity in 3D visualization.
   </p>
 </div>
+<br><br>
+<div align="center">
+<b>RU:</b><br />
+<p>
+Этот проект — 3D-портфолио, созданное с использованием React, Three.js и Tailwind CSS. Оно демонстрирует интерактивную 3D-графику и анимации, предоставляя уникальный способ представления проектов в области веб-разработки и дизайна. Портфолио включает плавные переходы и визуально захватывающие элементы, созданные для того, чтобы подчеркнуть навыки разработки и креативность в 3D-визуализации.
+  </p>
+</div>
+<br><br>
 <h1>⚙️ Tech Stack</h1>
 <br><br>
 <div align="center">
@@ -20,7 +30,13 @@
 # 🚨 Disclaimer
 <br><br>
 <div align="center">
+   <b>EN:</b><br />
   <p>This project is created for educational purposes only. All information, visual materials, and interactive elements are used to demonstrate development and 3D visualization skills. This project is not a commercial product. Any resemblance to real companies, brands, or characters is purely coincidental.</p>
+</div>
+<br><br>
+<div align="center">
+    <b>RU:</b><br />
+  <p>Этот проект создан исключительно в образовательных целях. Все материалы, визуальные элементы и интерактивные компоненты используются для демонстрации навыков разработки и 3D-визуализации. Этот проект не является коммерческим продуктом. Любое совпадение с реальными компаниями, брендами или персонажами является случайным.</p>
 </div>
 <br><br>
 <h1>☎️ Connect with me </h1>
